@@ -1,0 +1,18 @@
+messages:
+  pressSpace: "按住空格键不放 说话"
+  loadingModel: "加载中..."
+  noAudioInput: "错误:没有声音输入!"
+
+whisperRecognition:
+  modelPath: "whisper/medium.pt"
+  lang: "zh"
+
+ollama:
+  url: "http://localhost:11434/api/generate"
+  model: "qwen2"
+
+conversation:
+  greeting: "你好，你今天过得怎么样？"
+
+users:
+  user: "楚豪"
